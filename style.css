@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(http://www.razorpics.net/sasha-grey/Sasha%20HQWorld.jpg);
   background-size: cover;
 }
 body,html {
@@ -11,14 +11,12 @@ body,html {
 
 .keys {
   display: flex;
-  flex: 1;
-  min-height: 100vh;
-  align-items: center;
+  margin-top: 68vh;
   justify-content: center;
 }
 
 .key {
-  border: .4rem solid black;
+  border: .4rem solid grey;
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
